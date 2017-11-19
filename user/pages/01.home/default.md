@@ -2,8 +2,8 @@
 title: Home
 ---
 
-# Grav is Running!
-## You have installed **Grav** successfully
+# Grav Dino
+## Get all your **Grav** _dinosaurs_ here
 
 Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
 
